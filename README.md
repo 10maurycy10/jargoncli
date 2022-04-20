@@ -1,5 +1,7 @@
 # Jargoncli, a terminal Jargon file viewer
 
+![Screenshot of using jargon cli to view the entry for "computer confeti"](jargon.png)
+
 ## Installation
 
 Run ``cargo install --path .`` in the root of the git repo.
