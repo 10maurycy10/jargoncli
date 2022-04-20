@@ -4,7 +4,7 @@
 
 ## Installation
 
-Run ``cargo install --path .`` in the root of the git repo.
+Run ``cargo install jargoncli``.
 
 The binary will be installed to ``~/.cargo/bin`` you may have to source ``~/.cargo/env`` to use it.
 
