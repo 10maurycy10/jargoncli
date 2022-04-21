@@ -10,6 +10,14 @@ The binary will be installed to ``~/.cargo/bin`` you may have to source ``~/.car
 
 It is recommended to copy the ``jargon447`` file to the default path of ``/usr/local/share/jargon``.
 
+### With local copy
+
+run ``cargo install --path /path/to/repo`` to install it from a localy cloned repo.
+
+### Without cargo
+
+you can build it using rustc: ``rustc /path/to/repo/src/main.rs -o /path/to/binary/to/output -O``.
+
 ## Usage
 
 ```
